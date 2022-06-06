@@ -2,7 +2,7 @@
 
 👀 I’m new to coding!
 
-🌱 I’m currently learning Python, and hoping to eventually learn C#!
+🌱 I'm currently learning c#!
 
 😝 Check out my new survival game I created!
 
